@@ -67,7 +67,6 @@ const SkeletonThree = () => {
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200 leading-relaxed">
         <strong>Email:</strong> harivarsan2004@gmail.com<br/>
-        <strong>Phone:</strong> +91 7339390089<br/>
         <strong>LinkedIn:</strong> linkedin.com/in/hari-varsan<br/>
         <strong>Github:</strong> github.com/harithebeast<br/>
         <strong>Portfolio:</strong> roaring-selkie-56771b
